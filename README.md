@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Natural Language Processing (NLP) and Computer Vison
+- :telephone: : +91-9959916686
+- :email: : saketh.mattupalli999@gmail.com
